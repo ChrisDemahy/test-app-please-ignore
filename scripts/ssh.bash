@@ -1,0 +1,1 @@
+ssh -i ~/.ssh/Project.Khaleesi_key.pem azureuser@52.252.236.114 
